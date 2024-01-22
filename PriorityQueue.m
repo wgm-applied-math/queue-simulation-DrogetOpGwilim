@@ -1,3 +1,5 @@
+% PriorityQueue An overly simple implementation of a priority queue.
+
 classdef PriorityQueue < handle
     % PriorityQueue Container that maintains items that have an ordering
     % feature.  The item with the least value is made available.
